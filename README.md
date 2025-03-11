@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[https://www.linkedin.com/in/bhushan-powar](https://www.linkedin.com/in/bhushanpowar16/)" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/bhushanpowar16" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/BhushanPowar" target="_blank" rel="noreferrer">
